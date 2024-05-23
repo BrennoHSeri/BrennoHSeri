@@ -1,7 +1,7 @@
 
 ## About Me
 
-Hi, my name is Brenno Hissao Serikawa. I am a Computer Engineering student at the University of São Paulo, São Carlos Campus. This GitHub repository is dedicated to showcasing various projects and works that I have found interesting throughout my time in university.
+Hi, my name is Brenno Hissao. I am a Computer Engineering student at the University of São Paulo, São Carlos Campus. This GitHub repository is dedicated to showcasing various projects and works that I have found interesting throughout my time in university.
 
 ## Interests
 
