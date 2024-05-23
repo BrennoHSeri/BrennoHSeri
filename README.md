@@ -32,5 +32,7 @@ My current interests lie primarily in Data Engineering and Data Science.
 
 ## Fun Facts
 I enjoy making origami.
-I like solving Rubik's cubes.  
+
+I like solving Rubik's cubes.
+
 I have a love-hate relationship with Souls-like games.  
